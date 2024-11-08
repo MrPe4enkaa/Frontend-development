@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    //isimage == false && isImage == true
     function Animation(e) {
         const element = e;
         gsap.fromTo(element, {
