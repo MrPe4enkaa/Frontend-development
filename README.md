@@ -25,7 +25,7 @@ This project is a modern and interactive website dedicated to frontend developme
 ## Installation and Usage
 ### 1. Clone the repository
 ```sh
-git clone git@github.com:MrPe4enkaa/Frontend-development.git
+git clone https://github.com/MrPe4enkaa/Frontend-development.git
 ```
 ### 2. Open in a browser
 Simply open `index.html` in your preferred browser.
